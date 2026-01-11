@@ -2,6 +2,11 @@
 
 A lightweight Chrome Extension designed to streamline professional networking. It automatically captures LinkedIn profile data and suggests personalized ice-breakers for your messaging threads.
 
+## ⚖️ Disclaimer
+This project is for educational purposes only. It is not affiliated with, authorized, maintained, sponsored, or endorsed by LinkedIn or any of its affiliates or subsidiaries. 
+
+Use of this tool may violate LinkedIn's User Agreement (Terms of Service). The developers are not responsible for any account restrictions or bans resulting from the use of this software. Use it at your own risk.
+
 ## ✨ Features
 - **Profile Scraper**: Automatically saves the Name, Headline, and About section of profiles you visit.
 - **Message Generator**: Creates custom connection requests or follow-up messages based on the user's role.
@@ -26,5 +31,3 @@ A lightweight Chrome Extension designed to streamline professional networking. I
 3. Go to your Messaging tab or click "Message" on a profile.
 4. Use the suggested text to start your conversation!
 
-## 📜 License
-MIT
